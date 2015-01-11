@@ -1,0 +1,80 @@
+<! DOCTYPE html>
+<!-- Initially written by Saloni Bakshi -->
+<!-- ©CSEC-NITH-->
+<html>
+<head>
+<title>second_yr</title>
+<link rel="stylesheet" type="text/css" href="../css/align.css">
+</head>
+<?php 
+	include_once "../includes/navigation.php";
+?>
+<body>
+<div class="wrapper">
+<figure>
+<img src="../images/members/abhinav.jpg" alt="img"/>
+<figcaption>Abhinav Bhatt</figcaption>
+</figure>
+<figure>
+<img src="../images/members/aashit.jpg" alt="img"/>
+<figcaption>Aashit Singh</figcaption>
+</figure>
+<figure>
+<img src="../images/members/akshat.jpg" alt="img"/>
+<figcaption>Akshat Sharma</figcaption>
+</figure>
+<figure>
+<img src="../images/members/akshika.jpg" alt="img"/>
+<figcaption>Akshika Verma</figcaption>
+</figure>
+<figure>
+<img src="../images/members/anubhuti.jpg" alt="img"/>
+<figcaption>Anubhuti Singh</figcaption>
+</figure>
+<figure>
+<img src="../images/members/neha.jpg" alt="img"/>
+<figcaption>Neha Negi</figcaption>
+</figure>
+<figure>
+<img src="../images/members/parag.jpg" alt="img"/>
+<figcaption>Parag Jain</figcaption>
+</figure>
+<figure>
+<img src="../images/members/priya.jpg" alt="img"/>
+<figcaption>Priya vashishth</figcaption>
+</figure>
+<figure>
+<img src="../images/members/rahul.jpg" alt="img"/>
+<figcaption>Rahul Raturi</figcaption>
+</figure>
+<figure>
+<img src="../images/members/rajat.jpg" alt="img"/>
+<figcaption>Rajat Rana</figcaption>
+</figure>
+<figure>
+<img src="../images/members/reena.jpg" alt="img"/>
+<figcaption>Reena Sanehi</figcaption>
+</figure>
+<figure>
+<img src="../images/members/rohan.jpg" alt="img"/>
+<figcaption>Rohan Jaswal</figcaption>
+</figure>
+<figure>
+<img src="../images/members/saloni.jpg" alt="img"/>
+<figcaption>Saloni Bakshi</figcaption>
+</figure>
+<figure>
+<img src="../images/members/shalvi.jpg" alt="img"/>
+<figcaption>Shalvi Mahanjan</figcaption>
+</figure>
+<figure>
+<img src="../images/members/shivam.jpg" alt="img"/>
+<figcaption>Shivam Bansal</figcaption>
+</figure>
+<figure>
+<img src="../images/members/vetta.jpg" alt="img"/>
+<figcaption>Vetta Chaudhary</figcaption>
+</figure>
+</div>
+</body>
+</html>

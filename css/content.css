@@ -1,0 +1,98 @@
+/* CSS for the content pages */
+
+h1,h3{
+	padding:5px 5px 5px 5px;
+	color:#4C9CDF;
+}
+h2{
+	color:#FFF;
+	margin-top:-5px;
+	padding-bottom:5px;
+	float:left;
+}
+body{
+	background: url(../images/homepageTexture.jpg);
+	background-repeat: repeat;
+	overflow:auto;
+	height:100%
+}
+#main_content{
+	max-width: 950px;
+	height:100%;
+	position: absolute;
+	left:230px;
+	right:10px;
+	font-size: 14px;
+	font-family: "Open Sans",sans-serif;
+	word-spacing: 1px;
+	margin:30px auto 10px auto;
+	padding: 30px 10px 10px 10px;
+	z-index:1;
+}
+
+div{
+	text-align:justify;
+}
+.article,.article-left,.article-right,.tut_thumbnail{
+    position:relative;
+    background: none repeat scroll 0% 0% #FFF;
+    box-shadow: 2px 2px 10px #A9AFC2;
+    border-radius: 3px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px auto 10px auto;
+    max-width: 1000px;
+    min-width:400px;
+    text-align:justify;
+	color: #4C9CDF
+	display: block;
+	overflow:hidden;
+	height:auto;
+}
+.article-left,.article-right{
+	max-width:450px;
+	min-height:250px;
+}
+.article-left,.tut_thumbnail{
+	float:left;
+	margin-right:10px;
+}
+.article-right{
+	float:right;
+	margin-left:10px;
+}
+.tut_thumbnail{
+	max-height:200px;
+	max-width:190px;
+	min-width:190px;
+	margin:10px 10px 10px 10px;
+	border-radius: 40px;
+}
+.tut_thumbnail img{
+	display: block;
+	height:150px;
+	width:150px;
+	margin:5px auto 5px auto;
+	border-bottom: 3px solid #665544;
+	padding-bottom:5px;
+}
+.image{
+	margin-left:50px;
+	max-height:200px;
+	max-width:300px;
+	float:right;
+	display:inline;
+}
+.image img{
+    position:relative;
+    padding: 10px 10px 10px 10px;
+	border-bottom: 3px solid #665544;
+	display:inline;
+	margin-right:10px;
+	margin-bottom:10px;
+	margin-left:10px;
+	max-height:200px;
+	max-width:300px;
+	float:right;
+	z-index:0;
+}
+

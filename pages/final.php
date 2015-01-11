@@ -1,0 +1,58 @@
+<! DOCTYPE html>
+<!-- Initially written by Saloni Bakshi -->
+<!-- ©CSEC-NITH-->
+<html>
+<head>
+<title>third_yr</title>
+<link rel="stylesheet" type="text/css" href="../css/align.css">
+</head>
+<?php 
+	include_once "../includes/navigation.php";
+?>
+<body>
+<div class="wrapper">
+<figure>
+<img src="../images/members/arun.jpg" alt="img"/>
+<figcaption>Arun Singh</figcaption>
+</figure>
+<figure>
+<img src="../images/members/abhishek.jpg" alt="img"/>
+<figcaption>Abhishek Srivastava</figcaption>
+</figure>
+
+<figure>
+<img src="../images/members/anurag.jpg" alt="img"/>
+<figcaption>Anurag </figcaption>
+</figure>
+<figure>
+<img src="../images/members/binny.jpg" alt="img"/>
+<figcaption>Binny Arora</figcaption>
+</figure>
+<figure>
+<img src="../images/members/giriraj.jpg" alt="img"/>
+<figcaption>Giriraj</figcaption>
+</figure>
+<figure>
+<img src="../images/members/mamta.jpg" alt="img"/>
+<figcaption>Mamta</figcaption>
+</figure>
+<figure>
+<img src="../images/members/pranav.jpg" alt="img"/>
+<figcaption>Pranav Kant</figcaption>
+</figure>
+<figure>
+<img src="../images/members/shivam_.jpg" alt="img"/>
+<figcaption>Shivam Gupta</figcaption>
+</figure>
+<figure>
+<img src="../images/members/siddha.jpg" alt="img"/>
+<figcaption>Siddha Ganju</figcaption>
+</figure>
+<figure>
+<img src="../images/members/shivangi.jpg" alt="img"/>
+<figcaption>Shivangi Aneja</figcaption>
+</figure>
+
+</div>
+</body>
+</html>
